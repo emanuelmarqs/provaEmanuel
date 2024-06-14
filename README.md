@@ -14,3 +14,6 @@ linkedin: https://www.linkedin.com/in/laertejt/ \
 site: https://laboratoriodefinancas.com 
 
 ## Aluno
+Emanuel Marques Pereira
+email: emanuelaluno.ti@gmail.com
+linkedin: https://www.linkedin.com/in/emanuel-marquess/
